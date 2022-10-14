@@ -16,7 +16,7 @@
 
 - 📫 How to reach me [**simsumdev@almanbot.xyz**](mailto:simsumdev@almanbot.xyz)
 
-- ⚡ Fun fact **I am trying to be a FullStack Dev**
+- ⚡ Fun fact **I am trying to become a FullStack Dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
