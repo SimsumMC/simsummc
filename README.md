@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python Discord Bots / Minecraft Java Plugins**
 
-- 📫 How to reach me **simsum.dev@almanbot.xyz**
+- 📫 How to reach me (**mailto:simsumdev@almanbot.xyz**)
 
 - ⚡ Fun fact **I am trying to be a FullStack Dev**
 
