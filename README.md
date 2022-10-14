@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niklas (Simsum)</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-<img align="right" alt="Logo" width="400" src="https://user-images.githubusercontent.com/79917043/195843378-9360e4f1-f818-44d4-b747-98e87171a210.png">
+<img align="right" alt="Logo" width="300" src="https://user-images.githubusercontent.com/79917043/195843378-9360e4f1-f818-44d4-b747-98e87171a210.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simsummc&label=Profile%20views&color=0e75b6&style=flat" alt="simsummc" /> </p>
